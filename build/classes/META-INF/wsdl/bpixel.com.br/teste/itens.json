@@ -1,0 +1,30 @@
+{
+  "data": "20/01/2016 08:39:01",
+  "itens": [
+    {
+      "foto": "http://codigofonte.uol.com.br/wp-content/uploads/legado/codigos/385/cubo.png",
+      "nome": "Cubo mágico",
+      "descricao": "Cubo mágico. Preço: R$15,00."
+    },
+    {
+      "foto": "https://image.freepik.com/fotos-gratis/brincando--play--objetos--esportista_3190887.jpg",
+      "nome": "Bola",
+      "descricao": "Bola de futebol. Preço: R$20,00."
+    },
+    {
+      "foto": "http://2.bp.blogspot.com/-Si4CifdV27I/UUJMOijK7YI/AAAAAAAAC6c/jM8G7TUy7Qs/s1600/couteaux-id972.jpg",
+      "nome": "Faca",
+      "descricao": "Faca com cabo de madeira. Preço: R$30,00."
+    },
+    {
+      "foto": "http://revistavivasaude.uol.com.br/upload/imagens_upload/objetos_nos_alimentos_1.jpg",
+      "nome": "Lata",
+      "descricao": "Lata usada decorativa. Preço: R$1,00."
+    },
+    {
+      "foto": "http://www.grupoa.com.br/blogA/image.axd?picture=2013%2F10%2Ftelefone-570.jpg",
+      "nome": "Telefone",
+      "descricao": "Use para fazer ligações. Preço: R$50,00."
+    }
+  ]
+}

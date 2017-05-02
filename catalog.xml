@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://bpixel.com.br/teste/itens.json" uri="xml-resources/web-service-references/itens_1/wsdl/bpixel.com.br/teste/itens.json"/>
+</catalog>
